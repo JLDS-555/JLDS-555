@@ -21,7 +21,7 @@
 - 🌱 Ce que je suis en train d'apprendre: Je suis en train d'apprendre le Java Script, le PHP, je suis en formation pour plus tard devenir web developpeur
 - 🔍 Je suis à la recherche d'une alternance en developpeur web.💻
 - 💬 Vous pouvez me demander de l'aide sur les éditions de vidéos sur Capcut, sur le dessin j'apprends aussi de mon côté le web design pour faire des logos, des flyers et pleins d'autres choses
-- 📫 Vous pouvez me contacter: jenifer.luna-da-silva@laplateforme.io or you can reach me jeniferlunadasilva80@gmail.com
+- 📫 Vous pouvez me contacter: jenifer.luna-da-silva@laplateforme.io ou jeniferlunadasilva80@gmail.com
 - 😄 Pronoms: she/her
 - ✨Hobbys: J'adore dessiner🖌️, éditer des vidéos🎥, j'aime les dinosaures🦖 et l'espace🚀🌌🌙🌠, j'aime les films🍿et lire des mangas📖.
 -->
