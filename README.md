@@ -17,8 +17,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 **JLDS-555/JLDS-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 Récemment sur ce que je travaille:
 - 🌱 Ce que je suis en train d'apprendre: Je suis en train d'apprendre le Java Script, le PHP, je suis en formation pour plus tard devenir web developpeur
 - 🔍 Je suis à la recherche d'une alternance en developpeur web.💻
